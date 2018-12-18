@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LostFound</string>
+    <string name="welcome">Welcome To Lost Found App</string>
+    <string name="description">This app allow you to keep track your lost or found items.</string>
+    <string name="start">Start</string>
+    <string name="lostfoundTitle">Title</string>
+    <string name="hint_title">Enter title</string>
+    <string name="details">Details</string>
+    <string name="location">Enter location</string>
+    <string name="comment">Any comment</string>
+    <string name="found">Item Found</string>
+    <string name="date_picker_title">Date of Lost Item:</string>
+    <string name="time_picker_title">Time of Lost Item:</string>
+
+    <plurals name="item_subtitle_plural">
+        <item quantity="zero">%1$d item</item>
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d items</item>
+    </plurals>
+</resources>
